@@ -1,4 +1,4 @@
-# grid-flexbox
+# Grid Flexbox
 Flexbox css in kristoferjoseph's flexboxgrid project.
 
 ## Usage 
